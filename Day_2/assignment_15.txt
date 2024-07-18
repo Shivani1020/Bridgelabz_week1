@@ -1,0 +1,6 @@
+1. Create a local repository and at the same time git repository for that as well. Name it as git-demo
+2. Create 5 five files in the local repo name it as abc.txt def.txt likewise.
+3. Push each file on different branch on git.
+
+4. Implement Merge confict concept
+
